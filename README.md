@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Aditya Mishra 👋
 I'm a passionate software developer and certified AWS Solution Architect with a focus on Backend Development and AWS. I love exploring new technologies and contributing to open-source projects.
 
 🎓 Currently working as a Software developer at AgileDock with 1.6 years of experience in Backend Development.
