@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
+I'm a passionate software developer and certified AWS Solution Architect with a focus on Backend Development and AWS. I love exploring new technologies and contributing to open-source projects.
 
-<!--
-**mishra-cyber/mishra-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently working as a Software developer at AgileDock with 1.6 years of experience in Backend Development.
+🤝 Connect with me on:
+- [LinkedIn](www.linkedin.com/in/aditya-mishra-3b7099192)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Languages and Tools**
+- **Front-end**: HTML, CSS, etc.
+- **Back-end**: Ruby, Rails, Node.js, Express.js, etc.
+- **Databases**: MongoDB, MySQL, etc.
+💬 Feel free to reach out if you want to collaborate on projects or need any help!
